@@ -1,0 +1,25 @@
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\bin\Debug\Lectura de Archivos Planos.exe.config
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\bin\Debug\Lectura de Archivos Planos.exe
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\bin\Debug\Lectura de Archivos Planos.pdb
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura_de_Archivos_Planos.Form1.resources
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura_de_Archivos_Planos.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.exe
+C:\Users\Usuario\Desktop\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.pdb
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\bin\Debug\Lectura de Archivos Planos.exe.config
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\bin\Debug\Lectura de Archivos Planos.exe
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\bin\Debug\Lectura de Archivos Planos.pdb
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.csproj.AssemblyReference.cache
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.csproj.SuggestedBindingRedirects.cache
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura_de_Archivos_Planos.Properties.Resources.resources
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.csproj.GenerateResource.cache
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.csproj.CoreCompileInputs.cache
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.exe
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura de Archivos Planos.pdb
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura_de_Archivos_Planos.frmselect.resources
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura_de_Archivos_Planos.frmtxt.resources
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura_de_Archivos_Planos.frmcsv.resources
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura_de_Archivos_Planos.frmrtf.resources
+D:\Users\Descargas\Lectura de Archivos Planos\Lectura de Archivos Planos\obj\Debug\Lectura_de_Archivos_Planos.frmxml.resources
